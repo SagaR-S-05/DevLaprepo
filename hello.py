@@ -1,3 +1,3 @@
 print("VVCE")
-print("Hello")
+print("Hell")
 print("Hi")
