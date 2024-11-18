@@ -1,3 +1,3 @@
 print("VVCE")
-pint("Hello")
+print("Hell")
 print("Hi")
